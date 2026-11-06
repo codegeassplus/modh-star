@@ -1,16 +1,23 @@
 [
+  {
+    "ver": "8"
+  },
+
+  
+  {
+    "link": "https://htmlpreview.github.io/?https://github.com/codegeassplus/modh-star/blob/6565980fc5857d131515c210dde78b6f6f47422d/update.html"
+  },
+
 
 
   {
-    
-    "ver": "6"
- 
-},
+    "link_in": "https://github.com/codegeassplus/modh-star/releases/latest/download/modh-star6v.apk"
+  },
+
+
+
+
 {
-    
-    "link": "https://www.mediafire.com/file/2gtz3sf2rli79gi/%25D8%25B4%25D8%25A8%25D9%2583%25D8%25A9_%25D9%2585%25D9%2588%25D8%25AF%25D9%2587_%25D8%25A7%25D8%25B3%25D8%25AA%25D8%25A7%25D8%25B1_5.apk/file"
- 
-}
-
-
+    "link_out": "https://htmlpreview.github.io/?https://github.com/codegeassplus/modh-star/blob/6565980fc5857d131515c210dde78b6f6f47422d/update.html"
+  }
 ]
